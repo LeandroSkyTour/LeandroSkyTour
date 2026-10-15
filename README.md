@@ -1,7 +1,7 @@
 <!-- Banner animado -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:7B2FF7,100:FF00C8&height=220&section=header&text=Sr%20Zil&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Skyline%20%E2%80%A2%20Ultratour%20%E2%80%A2%20Full%20Stack%20Developer&descAlignY=58&descSize=20" width="100%" alt="banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:7B2FF7,100:FF00C8&height=220&section=header&text=Leandro&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Skyline%20%E2%80%A2%20Ultratour%20%E2%80%A2%20Full%20Stack%20Developer&descAlignY=58&descSize=20" width="100%" alt="banner"/>
 
 <a href="https://github.com/LeandroSkyTour">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=00F5FF&center=true&vCenter=true&width=700&lines=%3E+Construindo+o+futuro+dos+tours+virtuais+360%C2%B0;%3E+Panor%C3%A2micas+a%C3%A9reas+em+coordenadas+GPS+precisas;%3E+Next.js+%7C+TypeScript+%7C+Prisma+%7C+AWS;%3E+Do+drone+ao+navegador%2C+andar+por+andar+%F0%9F%9A%81" alt="Typing SVG" />
@@ -20,7 +20,7 @@
 
 ```ts
 const zil = {
-  nome: "Sr Zil",
+  nome: "Leandro",
   empresa: "Skyline",
   produto: "Ultratour",
   localizacao: "Brasil 🇧🇷",
