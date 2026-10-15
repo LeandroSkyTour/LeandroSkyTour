@@ -19,7 +19,7 @@
 ## `> whoami`
 
 ```ts
-const zil = {
+const leandro = {
   nome: "Leandro",
   empresa: "Skyline",
   produto: "Ultratour",
